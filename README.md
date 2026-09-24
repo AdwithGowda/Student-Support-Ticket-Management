@@ -81,6 +81,11 @@ npm install
 npm run dev
 ```
 
+**4. Test Accounts:**
+To test the application quickly, you can log in with:
+- **Admin:** `admin@example.com` / `password123`
+- **Student:** `student@example.com` / `password123`
+
 ## Screenshots
 *(Add screenshots of your application here before submission)*
 
